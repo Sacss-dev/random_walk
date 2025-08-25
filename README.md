@@ -17,8 +17,7 @@ With default settings, we find this type of random walk :
 <div align="center"> <img src="images/rw_2.png" alt="Random walk 1" width="600"/> </div>
 <div align="center">  Random Walk with 10.000 points and equal steps length </div>
 
-<br /> 
-<br /> 
+
 <br /> 
 
 
@@ -27,6 +26,3 @@ If we change to only 5.000 points, this is what we get :
 <div align="center"> <img src="images/rw_1.png" alt="Random walk 2" width="600"/> </div>
 <div align="center">  Random Walk with 5.000 points and equal steps length </div>
 
-<br /> 
-<br /> 
-<br /> 
